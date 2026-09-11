@@ -1,13 +1,6 @@
-# Shreya Reddy S — Portfolio v2
+# Shreya Reddy S — Portfolio V3
+Recruiter-focused Data Analytics / Business Intelligence / AI portfolio inspired by a black-and-white editorial/minimal portfolio aesthetic.
 
-A consistent dark, recruiter-focused portfolio for Data Analytics / BI / AI opportunities.
+Includes the user's professional photo and resume, project visuals loaded directly from public GitHub project screenshots, responsive navigation, project links, internship, achievements, credentials, education, languages, hobbies and contact details.
 
-## Structure
-- `index.html`
-- `style.css`
-- `script.js`
-- `assets/profile.png`
-- `assets/Shreya_Reddy_Resume.pdf`
-
-## Deploy
-Replace the corresponding files in `Shreya59422.github.io` on GitHub. Keep `index.html` at the repository root and keep the two personal assets inside `assets/`.
+Keep `index.html` at repository root and the `assets` folder beside it for GitHub Pages.
