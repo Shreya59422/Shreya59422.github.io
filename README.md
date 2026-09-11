@@ -1,17 +1,13 @@
-# Shreya Reddy S — Portfolio
+# Shreya Reddy S — Portfolio v2
 
-A responsive personal portfolio for Data Analytics opportunities.
+A consistent dark, recruiter-focused portfolio for Data Analytics / BI / AI opportunities.
 
-## Files
-- `index.html` — portfolio structure/content
-- `style.css` — visual design and responsive layout
-- `script.js` — navigation and scroll animations
-- `assets/profile.png` — profile photo
-- `assets/Shreya_Reddy_Resume.pdf` — resume
+## Structure
+- `index.html`
+- `style.css`
+- `script.js`
+- `assets/profile.png`
+- `assets/Shreya_Reddy_Resume.pdf`
 
-## GitHub Pages
-1. Create a GitHub repository (for example, `shreya-portfolio`).
-2. Upload all files/folders from this project.
-3. Go to Settings → Pages.
-4. Choose **Deploy from a branch**, select `main` and `/root`.
-5. Save. GitHub will provide your public portfolio URL.
+## Deploy
+Replace the corresponding files in `Shreya59422.github.io` on GitHub. Keep `index.html` at the repository root and keep the two personal assets inside `assets/`.
